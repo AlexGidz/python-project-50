@@ -1,0 +1,8 @@
+.venv/
+*.egg-info
+dist/
+*.pyc
+.coverage
+coverage.xml
+.pytest_cache/
+gendiff_python_project/.DS_Store
