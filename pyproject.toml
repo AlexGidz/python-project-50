@@ -5,7 +5,7 @@ description = ""
 authors = ["Alexander Gidzenko <gidzenko@mail.ru>"]
 readme = "README.md"
 packages = [
-  { include = "gendiff-python-project" },
+  { include = "gendiff_python_project" },
 ]
 
 [tool.poetry.dependencies]
